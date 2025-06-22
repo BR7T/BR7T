@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Victor Buratini</h1>
 <h3 align="center">A young Full-Stack dev, looking what side I will fall</h3>
 
-- 🔭 I’m currently working on [Sudoku Solver](https://github.com/BR7T/Sudoku-Solver)
+- 🔭 I’m currently working on [Habiks](https://github.com/BR7T/Habiks)
 
 - 📫 How to reach me **buratinivictor@gmail.com**
 
